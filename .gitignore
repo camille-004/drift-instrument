@@ -20,3 +20,6 @@ wheels/
 
 # Generated audio recordings
 *.wav
+
+# Arduino libraries
+firmware/libraries/
